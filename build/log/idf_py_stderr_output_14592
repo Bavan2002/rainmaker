@@ -1,0 +1,30 @@
+CMake Error:
+  Running
+
+   'C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/tools/ninja/1.10.2/ninja.exe' '-C' 'C:/Users/Bavan2002.DESKTOP-TITUVCT/Desktop/Rain/switch/build/CMakeFiles/CMakeTmp' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Error:
+  Running
+
+   'C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/tools/ninja/1.10.2/ninja.exe' '-C' 'C:/Users/Bavan2002.DESKTOP-TITUVCT/Desktop/Rain/switch/build/CMakeFiles/CMakeTmp' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: error: failed recompaction: Permission denied
+
+
+
+CMake Error at C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/tools/cmake/3.24.0/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  C:/Users/Bavan2002.DESKTOP-TITUVCT/esp/esp-idf/tools/cmake/project.cmake:426 (__project)
+  CMakeLists.txt:16 (project)
+
+

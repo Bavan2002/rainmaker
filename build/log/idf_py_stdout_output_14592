@@ -1,0 +1,8 @@
+-- Found Git: C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/tools/idf-git/2.39.2/cmd/git.exe (found version "2.39.2.windows.1") 
+-- Component directory C:/Users/Bavan2002.DESKTOP-TITUVCT/.espressif/esp-rainmaker/components/esp-insights does not contain a CMakeLists.txt file. No component will be added
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Bavan2002.DESKTOP-TITUVCT/Desktop/Rain/switch/build/CMakeFiles/CMakeOutput.log".
